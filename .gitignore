@@ -17,3 +17,5 @@ config.js
 # Direktori atau file khusus untuk pengembangan lokal
 node_modules/
 .idea/
+
+yarn.lock
