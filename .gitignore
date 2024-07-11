@@ -1,0 +1,19 @@
+# File yang dibuat oleh sistem operasi
+.DS_Store
+Thumbs.db
+
+# File konfigurasi dan kunci API
+config.js
+.env
+
+# Direktori yang dihasilkan saat proses build
+/build/
+/dist/
+
+# File log dan sementara
+*.log
+*.tmp
+
+# Direktori atau file khusus untuk pengembangan lokal
+node_modules/
+.idea/
